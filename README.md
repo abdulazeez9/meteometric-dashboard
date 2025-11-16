@@ -37,22 +37,7 @@ A modern, responsive weather monitoring application built with React, TypeScript
 - Node.js 20.18.0 or higher
 - npm or yarn package manager
 
-### Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
-
-# Install dependencies
-npm install
-
-# Install additional packages
-npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion react-icons recharts
-
-# Start development server
-npm run dev
-```
 
 ### Environment Setup
 
